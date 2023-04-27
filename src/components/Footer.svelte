@@ -41,16 +41,19 @@
     <div class="flex flex-row justify-center space-x-4 md:justify-normal">
       <button
         class="group h-10 w-10 rounded-full border-[1px] border-white hover:border-cyan-gradient"
+        aria-label="facebook"
       >
         <i class="fa-brands fa-facebook-f group-hover:!text-cyan-gradient" style="color:#ffffff" />
       </button>
       <button
         class="group h-10 w-10 rounded-full border-[1px] border-white hover:border-cyan-gradient"
+        aria-label="twitter"
       >
         <i class="fa-brands fa-twitter group-hover:!text-cyan-gradient" style="color: #ffffff" />
       </button>
       <button
         class="group h-10 w-10 rounded-full border-[1px] border-white hover:border-cyan-gradient"
+        aria-label="instagram"
       >
         <i class="fa-brands fa-instagram group-hover:!text-cyan-gradient" style="color: #ffffff" />
       </button>
