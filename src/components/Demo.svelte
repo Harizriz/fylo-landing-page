@@ -21,11 +21,11 @@
       class="group flex w-[10.4rem] flex-col text-cyan-gradient hover:fill-white hover:text-white"
       aria-label="link"
     >
-      <div class="flex flex-row">
+      <span class="flex flex-row">
         <p class="font-body">See how Fylo works</p>
         <img src={arrowIcon} alt="arrow-icon" class="ml-1 mt-1 h-4 w-4" />
-      </div>
-      <div class="w-40 border border-cyan-gradient group-hover:border-white" />
+      </span>
+      <span class="w-40 border border-cyan-gradient group-hover:border-white" />
     </button>
   </div>
 </div>
