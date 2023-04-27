@@ -22,7 +22,7 @@
       aria-label="link"
     >
       <span class="flex flex-row">
-        <p class="font-body">See how Fylo works</p>
+        <span class="font-body">See how Fylo works</span>
         <img src={arrowIcon} alt="arrow-icon" class="ml-1 mt-1 h-4 w-4" />
       </span>
       <span class="w-40 border border-cyan-gradient group-hover:border-white" />
