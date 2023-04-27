@@ -24,12 +24,12 @@
     </div>
     <div class="flex flex-col justify-center">
       <h1
-        class="z-10 px-8 pt-8 text-center font-headings text-2xl font-bold leading-9 text-white md:bg-transparent md:px-[30rem] md:text-[40px] md:leading-[3rem]"
+        class="z-10 px-8 pt-8 text-center font-headings text-2xl font-bold leading-9 text-white md:mx-auto md:w-[800px] md:bg-transparent md:text-[40px] md:leading-[3rem]"
       >
         All your files in one secure location, accessible anywhere.
       </h1>
       <h2
-        class="z-10 bg-dark-blue-main px-5 pt-4 text-center font-body text-base text-white md:bg-transparent md:px-[35rem] md:pt-8 md:text-xl"
+        class="z-10 bg-dark-blue-main px-5 pt-4 text-center font-body text-base text-white md:mx-auto md:w-[650px] md:bg-transparent md:pt-8 md:text-xl"
       >
         Fylo stores all your most information files in one secure location. Access them wherever you
         need, share and collaborate with friends, family, and co-workers.
