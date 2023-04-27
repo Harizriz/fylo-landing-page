@@ -20,6 +20,8 @@
         src={illustrationIntro}
         alt="illustration-intro"
         class="z-10 w-80 pt-8 md:w-[720px] md:pt-0"
+        width="720"
+        height="534"
       />
     </div>
     <div class="flex flex-col justify-center">

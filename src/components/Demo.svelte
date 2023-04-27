@@ -4,7 +4,13 @@
 </script>
 
 <div class="mx-6 mt-40 flex flex-col items-center justify-center md:mx-[17.1rem] md:flex-row">
-  <img src={illustrationProductive} alt="illustration-productive" class="mx-8 md:mx-0" />
+  <img
+    src={illustrationProductive}
+    alt="illustration-productive"
+    class="mx-8 md:mx-0"
+    width="615"
+    height="465"
+  />
   <div class="mx-2 mt-12 flex flex-col justify-center md:ml-12 md:mt-0">
     <p class="mx-0 mb-4 font-headings text-xl font-bold text-white md:w-80 md:text-4xl">
       Stay productive, wherever you are
@@ -23,7 +29,7 @@
     >
       <span class="flex flex-row">
         <span class="font-body">See how Fylo works</span>
-        <img src={arrowIcon} alt="arrow-icon" class="ml-1 mt-1 h-4 w-4" />
+        <img src={arrowIcon} alt="arrow-icon" class="ml-1 mt-1 h-4 w-4" width="16" height="16" />
       </span>
       <span class="w-40 border border-cyan-gradient group-hover:border-white" />
     </button>

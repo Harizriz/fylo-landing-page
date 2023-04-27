@@ -6,12 +6,18 @@
 </script>
 
 <div class="z-0 flex flex-col bg-dark-blue-footer px-8 md:px-0">
-  <img src={logo} alt="logo" class="w-48 pt-56 md:mt-40 md:w-96 md:pl-40 md:pt-0" />
+  <img
+    src={logo}
+    alt="logo"
+    class="w-48 pt-56 md:mt-40 md:w-96 md:pl-40 md:pt-0"
+    width="176"
+    height="52"
+  />
   <div
     class="grid grid-flow-row flex-row space-y-14 bg-dark-blue-footer pb-20 pt-12 md:grid-flow-col md:flex-col md:space-x-10 md:space-y-0 md:px-40"
   >
     <div class="flex flex-row">
-      <img src={LocationIcon} alt="location-icon" class="h-5 pr-8" />
+      <img src={LocationIcon} alt="location-icon" class="h-5 pr-8" width="47" height="20" />
       <p class="w-64 font-body text-white md:w-[21rem]">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at diam a nunc tempus dictum
         eu vel nisl. Phasellus ac lacus diam.
@@ -19,11 +25,11 @@
     </div>
     <div class="flex flex-col space-y-4">
       <div class="flex flex-row">
-        <img src={PhoneIcon} alt="phone-icon" class="h-5" />
+        <img src={PhoneIcon} alt="phone-icon" class="h-5" width="20" height="20" />
         <p class="ml-6 font-body text-white">+1-543-123-4567</p>
       </div>
       <div class="flex flex-row">
-        <img src={EmailIcon} alt="email-icon" class="h-5" />
+        <img src={EmailIcon} alt="email-icon" class="h-5" width="25" height="20" />
         <p class="ml-6 font-body text-white">example@fylo.com</p>
       </div>
     </div>
